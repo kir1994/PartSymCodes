@@ -1,2 +1,2 @@
-# PartSymMonCodes
-Bounds and code generator for partially symmetric monomial codes
+# Partially symmetric codes
+Bounds and code generator for partially symmetric codes
